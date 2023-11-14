@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+section {
+    padding: 50px;
+}
+
+#pourquoi {
+    background-color: #1abc9c;
+    color: #fff;
+}
+
+#competences {
+    background-color: #e74c3c;
+    color: #fff;
+}
+
+#experience {
+    background-color: #f39c12;
+    color: #fff;
+}
+
+#contact {
+    background-color: #3498db;
+    color: #fff;
+}
+
+footer {
+    background-color: #34495e;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
